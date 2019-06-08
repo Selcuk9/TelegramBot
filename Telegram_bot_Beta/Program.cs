@@ -7,6 +7,7 @@ namespace Telegram_bot_Beta
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
             //Можно РАБОТАТЬ С ДВУМЯ БОТАМИ @burtimonbot & @selcukdark
             // Link Adress
             string link = "https://api.telegram.org/bot";
